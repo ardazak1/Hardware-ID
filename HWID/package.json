@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gpuinformation": "^1.0.1",
+    "hwid": "^0.4.1",
+    "task-manager": "^1.7.0"
+  }
+}
