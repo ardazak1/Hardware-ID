@@ -1,6 +1,6 @@
 # HWID
 
-# Required
+# Requirement
 **Node.js**
 https://nodejs.org/en/
 
