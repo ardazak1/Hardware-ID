@@ -1,4 +1,4 @@
-# HWID
+# Hardware ID
 
 # Requirement
 **Node.js**
